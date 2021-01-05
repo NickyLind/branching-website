@@ -1,18 +1,19 @@
 h1  {
   color: darkred;
-  text-align: center;
-}
+  }
 
 h2  {
   font-style: italic;
-  text-align: center;
   color: red;
 }
 
 p {
   color: crimson;
+  text-align: center;
 }
 
 body  {
   background-color: salmon;
+  font-family: sans-serif;
+  text-align: center;
 }
